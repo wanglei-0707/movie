@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "description": "",
+  "main": "",
+  "authors": [
+    "wanglei-0707 <806935949@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "noge"
+  ],
+  "homepage": "https://github.com/wanglei-0707/Node.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
